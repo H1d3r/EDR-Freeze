@@ -48,7 +48,7 @@ jobs:
           cl /EHsc /W3 /O2 /MT /DUNICODE /D_UNICODE /DWIN32 /D_CONSOLE EDR-Freeze.cpp PPLHelp.cpp ProcessMisc.cpp /link /SUBSYSTEM:CONSOLE /OUT:EDRFreeze-msvc.exe
 
       - name: Build GNU
-        run: g++ -w -Os -flto -static -std=c++17 -Wall -Wextra -s -DUNICODE -D_UNICODE -municode EDR-Freeze.cpp PPLHelp.cpp ProcessMisc.cpp -o EDRFreeze-gnu.exe
+        run: g++ -w -Os -flto -static -std=c++17 -Wall -Wextra -Wno-narrowing -s -DUNICODE -D_UNICODE -municode -D_WIN32_WINNT=0x0A00 -DNTDDI_VERSION=0x0A000000 EDR-Freeze.cpp PPLHelp.cpp ProcessMisc.cpp -o EDRFreeze-gnu.exe
         shell: cmd
 
       - name: List build directory
