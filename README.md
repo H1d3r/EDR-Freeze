@@ -20,6 +20,10 @@ EDR-Freeze operates in user mode, so you don't need to install any additional dr
 
 [Tool to run process with PPL without driver](https://github.com/TwoSevenOneT/CreateProcessAsPPL)
 
+## Demo Video
+
+Youtube: [https://www.youtube.com/watch?v=vFcbE94qD70](https://www.youtube.com/watch?v=vFcbE94qD70)
+
 ## How to Use EDR-Freeze Effectively
 
 Instead of running EDR-Freeze with a long sleep duration, you should incorporate it into a script with the following steps:
@@ -37,6 +41,12 @@ Alternatively, it's best to insert the code you want to execute directly into th
 ## ☕ Like what I do? You can fuel my creativity with a coffee!
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/twosevenonethree)
+
+## READING
+
+Some books you should read to sharpen your cybersecurity skills, especially in offensive security:
+
+[Books on Programming and Cybersecurity recommended by Zero Salarium Researchers](https://www.zerosalarium.com/2025/10/books-on-programming-and-cybersecurity-recommended.html)
 
 ## Author:
 
