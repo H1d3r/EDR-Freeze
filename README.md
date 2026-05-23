@@ -38,9 +38,9 @@ Alternatively, it's best to insert the code you want to execute directly into th
 <img width="748" height="387" alt="Insert code" src="https://github.com/user-attachments/assets/1c6f8819-5a21-4cc4-b72f-ea00be0fd092" />
 
 
-## ☕ Like what I do? You can fuel my creativity with a coffee!
+## 🐦 Enjoying my work? Support the journey by following me on X
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/twosevenonethree)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TwoSevenOneT?style=for-the-badge&logo=x&color=000)](https://x.com/TwoSevenOneT)
 
 ## Tools For Security Researcher and Hacker
 
